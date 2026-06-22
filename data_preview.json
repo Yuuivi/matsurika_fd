@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "fey",
+    "title_jp": "フェイ／フエン",
+    "title_cn": "菲／フエン",
+    "category": "三世因果典 + 天命胤外伝",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-fey",
+    "notes": [
+      "各節は chart 順でなくても読めます。",
+      "最後の2枚のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "第０・九節◆目を覚ませば、床の上",
+            "choice_jp": "フェイの様子を見にいく",
+            "note_jp": "",
+            "section_cn": "第0・九节｜醒来时，在地板上",
+            "choice_cn": "去看菲的情况",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第一・五節◆思い出をなぞる時",
+            "choice_jp": "髪に藁がついてる",
+            "note_jp": "",
+            "section_cn": "第一・五节｜追寻回忆之时",
+            "choice_cn": "头发上沾着稻草",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十七年前◆守ると決めた朝",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前｜决定守护的早晨",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十四年前◆はじめての料理",
+            "choice_jp": "薄焼《パタ》",
+            "note_jp": "",
+            "section_cn": "十四年前｜第一次料理",
+            "choice_cn": "薄饼《パタ》",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十二年前◆厠の隅で、ひとやすみ",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十二年前｜在角落稍作休息",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前◆小さな挑戦",
+            "choice_jp": "おじさんに悪いわ",
+            "note_jp": "",
+            "section_cn": "十一年前｜小小挑战",
+            "choice_cn": "这样对叔叔不好",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十年前◆いつもの帰り道",
+            "choice_jp": "午後は、私も手伝う",
+            "note_jp": "",
+            "section_cn": "十年前｜平日归途",
+            "choice_cn": "下午我也来帮忙",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "九年前◆あの日、ひと口を",
+            "choice_jp": "フェイに食べてもらう",
+            "note_jp": "",
+            "section_cn": "九年前｜那一日的一口",
+            "choice_cn": "让菲吃",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "四年前◆心の中の一歩",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "四年前｜心中的一步",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第二・五節◆竹籠に託す想い",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第二・五节｜寄托于竹篮的心意",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第五・五節◆結ばれる前に、想うこと",
+            "choice_jp": "フェイとの未来を思い浮かべる",
+            "note_jp": "",
+            "section_cn": "第五・五节｜结为连理前所想之事",
+            "choice_cn": "想象和菲的未来",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆静かな夜のそばに",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第六节｜安静夜晚的身旁",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+雨前終節◆あの日の温もり",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+雨前终节｜那一日的温暖",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆彼の残してくれた時間に",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "雨前终节 后日谈｜他留下的时间里",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "八年前◆ひと針に込めた想い",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "八年前｜寄托于一针的心意",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第六節◆魂の気配",
+            "choice_jp": "フエン様の像？",
+            "note_jp": "",
+            "section_cn": "++第六节｜灵魂的气息",
+            "choice_cn": "フエン大人的像？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第八節◆朝の光、まだ届かぬうちに",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第八节｜晨光尚未抵达前",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "明前終節-後日談-◆朔日の逢瀬",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜朔日幽会",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第八節◆千弁蓮を咲かせて",
+            "choice_jp": "コケの花が見たい",
+            "note_jp": "",
+            "section_cn": "++第八节｜让千瓣莲绽放",
+            "choice_cn": "想看苔藓的花",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第九節◆傘の向こう、隠された想い",
+            "choice_jp": "どこかに家を持ちたい",
+            "note_jp": "",
+            "section_cn": "+第九节｜伞的另一侧，隐藏的心意",
+            "choice_cn": "想在某处拥有一个家",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第九節◆寄り添う夜の静寂に",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "++第九节｜相依夜晚的寂静",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆白き茉莉花が咲く朝に",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜白茉莉绽放的早晨",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "一千五百年前◆まだ見ぬ道",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "一千五百年前｜未见之路",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "一千二十年前◆双子のしらせ",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "一千二十年前｜双子的消息",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "天命胤外伝《春前終節》-後日談-",
+            "choice_jp": "桃のアイコンから開始",
+            "note_jp": "※天命胤外伝クリアで解放されます。",
+            "section_cn": "天命胤外传《春前终节》后日谈",
+            "choice_cn": "从桃子图标开始",
+            "note_cn": "天命胤外传通关后解锁"
+          },
+          {
+            "section_jp": "二千五百年前◆修練の日々",
+            "choice_jp": "選択肢なし",
+            "note_jp": "※金烏玉兎典の終節クリアで解放されます。",
+            "section_cn": "二千五百年前｜修炼的日子",
+            "choice_cn": "无选项",
+            "note_cn": "金乌玉兔典终节通关后解锁"
+          },
+          {
+            "section_jp": "禁忌終節◆君を失うくらいなら、永遠の刻を彷徨っていい",
+            "choice_jp": "蝶のアイコンから開始",
+            "note_jp": "※金烏玉兎典の終節クリアで解放されます。",
+            "section_cn": "禁忌终节｜宁愿永远徘徊，也不愿失去你",
+            "choice_cn": "从蝴蝶图标开始",
+            "note_cn": "金乌玉兔典终节通关后解锁"
+          },
+          {
+            "section_jp": "禁忌終節-後日談-◆とこしえに相い想う",
+            "choice_jp": "蛇のアイコンから開始",
+            "note_jp": "※禁忌終節クリアで解放されます。",
+            "section_cn": "禁忌终节 后日谈｜永恒相思",
+            "choice_cn": "从蛇图标开始",
+            "note_cn": "禁忌终节通关后解锁"
+          }
+        ]
+      },
+      {
+        "name": "天命胤外伝",
+        "rows": [
+          {
+            "section_jp": "序幕◆天命に背を向けて",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "序幕｜背离天命",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第一節◆景星節の掟",
+            "choice_jp": "手を握り返す",
+            "note_jp": "",
+            "section_cn": "第一节｜景星节的规矩",
+            "choice_cn": "回握他的手",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "SAVE1",
+            "choice_jp": "セーブ",
+            "note_jp": "分岐点",
+            "section_cn": "SAVE 1",
+            "choice_cn": "存档",
+            "note_cn": "分岔点"
+          },
+          {
+            "section_jp": "第一節◆景星節の掟",
+            "choice_jp": "掟を破る",
+            "note_jp": "",
+            "section_cn": "第一节｜景星节的规矩",
+            "choice_cn": "违背规矩",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "SAVE2",
+            "choice_jp": "セーブ",
+            "note_jp": "分岐点",
+            "section_cn": "SAVE 2",
+            "choice_cn": "存档",
+            "note_cn": "分岔点"
+          },
+          {
+            "section_jp": "第一節◆景星節の掟",
+            "choice_jp": "辛抱強く聞く",
+            "note_jp": "",
+            "section_cn": "第一节｜景星节的规矩",
+            "choice_cn": "耐心听下去",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第二節◆どうせ壊れる命なら、お前と逃げたい",
+            "choice_jp": "迷わない",
+            "note_jp": "",
+            "section_cn": "第二节｜若注定破碎，就与你一起逃走",
+            "choice_cn": "不迷茫",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第三節◆井の中の蛙大海を知らず",
+            "choice_jp": "フェイも似合ってる",
+            "note_jp": "",
+            "section_cn": "第三节｜井底之蛙不知大海",
+            "choice_cn": "菲也很适合",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第三節◆井の中の蛙大海を知らず",
+            "choice_jp": "一緒に寝たい",
+            "note_jp": "",
+            "section_cn": "第三节｜井底之蛙不知大海",
+            "choice_cn": "想一起睡",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第四節◆されど空の深さを知る",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第四节｜但知天空之深",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第五節◆業を背負いし、因果の宿命",
+            "choice_jp": "手を握る",
+            "note_jp": "",
+            "section_cn": "第五节｜背负业报的因果宿命",
+            "choice_cn": "握住手",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第六節◆緑の十字路",
+            "choice_jp": "フェイに話しかける",
+            "note_jp": "",
+            "section_cn": "第六节｜绿色十字路口",
+            "choice_cn": "找菲说话",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第七節◆足掻き、苦しみ、天命に抗う",
+            "choice_jp": "あの時はほっとした",
+            "note_jp": "",
+            "section_cn": "第七节｜挣扎、痛苦、反抗天命",
+            "choice_cn": "那时我松了口气",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第八節◆たまゆらの日々",
+            "choice_jp": "かっこいい",
+            "note_jp": "",
+            "section_cn": "第八节｜片刻的日常",
+            "choice_cn": "很帅",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第九節◆全ての時が重なり、盤上に駒が揃う",
+            "choice_jp": "SAVE3 → フェイがいるから大丈夫",
+            "note_jp": "〖春前終節〗",
+            "section_cn": "第九节｜所有时光重叠，棋子齐聚盘上",
+            "choice_cn": "SAVE 3 后选“因为有菲所以没问题”",
+            "note_cn": "到达春前终节"
+          },
+          {
+            "section_jp": "SAVE3 より",
+            "choice_jp": "……わかったわ",
+            "note_jp": "〖明前終節〗",
+            "section_cn": "SAVE 3 分岔",
+            "choice_cn": "……我明白了",
+            "note_cn": "到达明前终节"
+          },
+          {
+            "section_jp": "SAVE1 より",
+            "choice_jp": "掟を守る",
+            "note_jp": "〖雨後終節〗",
+            "section_cn": "SAVE 1 分岔",
+            "choice_cn": "遵守规矩",
+            "note_cn": "到达雨后终节"
+          },
+          {
+            "section_jp": "SAVE2 より",
+            "choice_jp": "諦めて寝室に戻る",
+            "note_jp": "〖雨前終節〗",
+            "section_cn": "SAVE 2 分岔",
+            "choice_cn": "放弃，回卧室",
+            "note_cn": "到达雨前终节"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruwo",
+    "title_jp": "ルヲ",
+    "title_cn": "ルヲ",
+    "category": "三世因果典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-ruwo",
+    "notes": [
+      "一部制限が掛かっている節があります。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "第０・五節◆変わらない日常、大貿易の日",
+            "choice_jp": "相変わらず？",
+            "note_jp": "",
+            "section_cn": "第0・五节｜不变的日常，大贸易之日",
+            "choice_cn": "还是老样子？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第一・五節◆村の風習",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第一・五节｜村子的风俗",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第五節◆変わりゆく思い",
+            "choice_jp": "仕事の合間に食べて",
+            "note_jp": "",
+            "section_cn": "+第五节｜逐渐变化的心意",
+            "choice_cn": "工作间隙吃吧",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆胸の中の重荷",
+            "choice_jp": "値段を聞いてくる",
+            "note_jp": "",
+            "section_cn": "+第六节｜胸中的重担",
+            "choice_cn": "去问价格",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十七年前◆小さなぬくもり",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前｜小小温暖",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十六年前◆人と人の結びつき",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十六年前｜人与人的连结",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十四年前◆白玉[バイユー]と小虎[シャオフー]",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十四年前｜白玉与小虎",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十三年前◆ふたりの子ども",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十三年前｜两个孩子",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前◆空いた記憶の穴",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前｜缺失的记忆空洞",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第六節◆償いの誓い",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+++第六节｜赎罪的誓言",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++++第六節◆鳥の羽毛と蝙蝠と",
+            "choice_jp": "右側の毛から取る",
+            "note_jp": "",
+            "section_cn": "++++第六节｜鸟的羽毛与蝙蝠",
+            "choice_cn": "从右侧的毛开始取",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++++第六節◆鼓動の音",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+++++第六节｜心跳声",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第七節◆波間のまなざし",
+            "choice_jp": "ルヲは相変わらずね",
+            "note_jp": "",
+            "section_cn": "+第七节｜浪间的目光",
+            "choice_cn": "ルヲ还是老样子呢",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第六節◆砂の中の蠍",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "++第六节｜沙中的蝎子",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆終わらない愛執",
+            "choice_jp": "ルヲに復讐したい",
+            "note_jp": "※「李苑の傍にいたい」も選択して下さい。展開が変わります。",
+            "section_cn": "雨前终节 后日谈｜无尽爱执",
+            "choice_cn": "想向ルヲ复仇",
+            "note_cn": "也选择“想待在李苑身边”可看变化"
+          },
+          {
+            "section_jp": "明前終節-後日談-◆暗がりの果てに広がる色は",
+            "choice_jp": "SAVE1 → 隙を見て逃亡する",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜黑暗尽头展开的色彩",
+            "choice_cn": "SAVE 1 后选“趁机逃亡”",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第九節◆棺の中で",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第九节｜棺中",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第九節◆装束の変化",
+            "choice_jp": "ルヲを凝視する",
+            "note_jp": "",
+            "section_cn": "++第九节｜装束的变化",
+            "choice_cn": "凝视ルヲ",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "三年前◆取り戻した名前",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "三年前｜找回的名字",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "二十年前◆命のひとひら",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "二十年前｜生命的一片",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第九節◆今夜だけは",
+            "choice_jp": "黒茶を淹れる",
+            "note_jp": "",
+            "section_cn": "+++第九节｜只有今夜",
+            "choice_cn": "泡黑茶",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第九・五節◆入念すぎる準備",
+            "choice_jp": "ルヲからの求婚を待つ",
+            "note_jp": "",
+            "section_cn": "第九・五节｜过分周到的准备",
+            "choice_cn": "等待ルヲ求婚",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+春前終節◆熱を重ねて",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+春前终节｜热意交叠",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆どこまでも続く、青い空",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜延伸到天边的蓝空",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "SAVE1 より※スチル回収",
+            "choice_jp": "一生ルヲの傍にずっといる",
+            "note_jp": "スチル回収",
+            "section_cn": "SAVE 1 回收 CG",
+            "choice_cn": "一生一直待在ルヲ身边",
+            "note_cn": "CG 回收"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enrai",
+    "title_jp": "玖 燕來",
+    "title_cn": "玖 燕來",
+    "category": "三世因果典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-enrai",
+    "notes": [
+      "一部エンディングに攻略制限があります。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "十九年前◆月餅[ユエピン]の記憶",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十九年前｜月饼的记忆",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十八年前◆ストレス解消法",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十八年前｜解压方法",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十七年前・春◆燕粋の睫毛珍話",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前・春｜燕粋睫毛奇谈",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十七年前・秋◆第一公子お披露目の会",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前・秋｜第一公子亮相会",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十三年前◆宝石鑑定士の少女",
+            "choice_jp": "宝玉の鑑定をする",
+            "note_jp": "",
+            "section_cn": "十三年前｜宝石鉴定师少女",
+            "choice_cn": "鉴定宝玉",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前・春◆決闘の舞",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・春｜决斗之舞",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前・秋◆公子太傅、公子を探して",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・秋｜公子太傅寻公子",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十年前◆寝ずの番",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十年前｜守夜",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第三節◆箱入り公子、庶廊へ行く",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第三节｜深闺公子前往庶廊",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第三節◆これだから田舎者は困る",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "++第三节｜所以乡下人才让人困扰",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第四節◆鯨飲馬食",
+            "choice_jp": "箸を置く",
+            "note_jp": "",
+            "section_cn": "+第四节｜鲸饮马食",
+            "choice_cn": "放下筷子",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆謝罪の月餅[ユエピン]",
+            "choice_jp": "今、食べよう",
+            "note_jp": "",
+            "section_cn": "+第六节｜谢罪的月饼",
+            "choice_cn": "现在吃吧",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第六・五節◆長湯の副効果",
+            "choice_jp": "何かあったのかな？",
+            "note_jp": "",
+            "section_cn": "第六・五节｜长浴的副作用",
+            "choice_cn": "是不是发生了什么？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第六・五節◆長湯の副効果",
+            "choice_jp": "謝る",
+            "note_jp": "",
+            "section_cn": "第六・五节｜长浴的副作用",
+            "choice_cn": "道歉",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第六・八節◆衝立の奥",
+            "choice_jp": "燕來さんじゃなかったら……",
+            "note_jp": "",
+            "section_cn": "第六・八节｜屏风深处",
+            "choice_cn": "如果不是燕來先生的话……",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第七節◆震えを抱き留めて",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第七节｜拥住颤抖",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "明前終節-後日談-◆春を喜ぶ燕たち",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜喜春的燕子们",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第八・五節◆炯眼が鳴らす渇きに抗って",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第八・五节｜抗拒炯眼唤起的渴望",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第九節◆心の中で叫ぶ、大切な人の名",
+            "choice_jp": "なんでもありません",
+            "note_jp": "",
+            "section_cn": "+第九节｜在心中呼喊重要之人的名字",
+            "choice_cn": "没什么",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第九節◆素肌の体温",
+            "choice_jp": "撫でる",
+            "note_jp": "",
+            "section_cn": "++第九节｜肌肤的体温",
+            "choice_cn": "抚摸",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆女王と娘",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "雨前终节 后日谈｜女王与女儿",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆雲を結び、月に願い、花を愛でる",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜结云、愿月、爱花",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "堕落終節◆陵墓に埋められぬ寂しさを、互で埋めて",
+            "choice_jp": "一番左の蛇のアイコンを選択して開始",
+            "note_jp": "※堕落終節は胡 青凛の後日談を見ることで解放されます。",
+            "section_cn": "堕落终节｜以彼此填补无法埋入陵墓的寂寞",
+            "choice_cn": "从最左侧蛇图标开始",
+            "note_cn": "观看胡青凛后日谈后解锁"
+          },
+          {
+            "section_jp": "SAVE1",
+            "choice_jp": "生きている燕來に縋り付く",
+            "note_jp": "堕落終節方向",
+            "section_cn": "SAVE 1",
+            "choice_cn": "依附活着的燕來",
+            "note_cn": "堕落终节方向"
+          },
+          {
+            "section_jp": "SAVE1 より",
+            "choice_jp": "死んだ青凛に操を立てる",
+            "note_jp": "分岐回収",
+            "section_cn": "SAVE 1 分岔",
+            "choice_cn": "为死去的青凛守节",
+            "note_cn": "分岔回收"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seirin",
+    "title_jp": "胡 青凛",
+    "title_cn": "胡 青凛",
+    "category": "三世因果典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-seirin",
+    "notes": [
+      "エンディングに攻略制限はありません。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "十一年前・暮春◆念願の公子太傅は、怖い人？",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・暮春｜期待已久的公子太傅是可怕的人？",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前・初夏◆新年の吉凶",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・初夏｜新年的吉凶",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前・仲冬◆六歳のあれえ……？",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・仲冬｜六岁的“诶……？”",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十年前◆友のように、兄のように",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十年前｜如友，如兄",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "八年前・季夏◆鳥、音、香、花、宝、文",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "八年前・季夏｜鸟、音、香、花、宝、文",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第一・五節◆世を知る為に",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第一・五节｜为知世事",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第三節◆綺麗な瞳の少女",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第三节｜眼瞳漂亮的少女",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第五節◆秘密の庭",
+            "choice_jp": "楽しそうですね",
+            "note_jp": "",
+            "section_cn": "+第五节｜秘密庭园",
+            "choice_cn": "看起来很开心呢",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第五節◆秘密の庭",
+            "choice_jp": "また来ましょうね",
+            "note_jp": "",
+            "section_cn": "+第五节｜秘密庭园",
+            "choice_cn": "下次再来吧",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第六節◆月を尊び穀を求め祭る舞",
+            "choice_jp": "月穀宴をやりませんか？",
+            "note_jp": "",
+            "section_cn": "++第六节｜尊月求谷的祭舞",
+            "choice_cn": "要不要举办月谷宴？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第六節◆龍と龍",
+            "choice_jp": "恥ずかしい",
+            "note_jp": "",
+            "section_cn": "+++第六节｜龙与龙",
+            "choice_cn": "好害羞",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++++第六節◆翠帳紅閨",
+            "choice_jp": "好六房へ行きませんか？",
+            "note_jp": "",
+            "section_cn": "++++第六节｜翠帐红闺",
+            "choice_cn": "要不要去好六房？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++++第六節◆翠帳紅閨",
+            "choice_jp": "水面の下へ",
+            "note_jp": "",
+            "section_cn": "+++++第六节｜翠帐红闺",
+            "choice_cn": "到水面下",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "七年前◆もし結婚できたら",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "七年前｜如果能结婚",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "二年前・惜春◆十五歳のあれえ……？",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "二年前・惜春｜十五岁的“诶……？”",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆小蝶の美容施術",
+            "choice_jp": "寄り添う",
+            "note_jp": "",
+            "section_cn": "+第六节｜小蝶的美容护理",
+            "choice_cn": "贴近他",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第七節◆小さな龍",
+            "choice_jp": "素敵なお話ですね",
+            "note_jp": "",
+            "section_cn": "+第七节｜小小的龙",
+            "choice_cn": "真是很美好的故事",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第七節◆貴方に贈る花",
+            "choice_jp": "いい匂い……",
+            "note_jp": "",
+            "section_cn": "++第七节｜送给你的花",
+            "choice_cn": "好香……",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "明前終節-後日談-◆雨の香りが珠のように淵を包む",
+            "choice_jp": "SAVE1 → 月下ノ国の今を見に行く",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜雨的香气如珠般包裹深渊",
+            "choice_cn": "SAVE 1 后选“去看看月下之国现在的样子”",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆森に溶けた亡骸、森に溶けぬ寂寥",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "雨前终节 后日谈｜溶于森林的遗骸，未溶于森林的寂寥",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆永遠の繁栄を",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜永远的繁荣",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "八年前・爽秋◆秘密の稽古",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "八年前・爽秋｜秘密练习",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "二年前・晩冬◆能ある龍は爪を隠す",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "二年前・晩冬｜有能的龙藏起爪牙",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "SAVE1 より※スチル回収",
+            "choice_jp": "月下ノ国の今を見に行かない",
+            "note_jp": "スチル回収",
+            "section_cn": "SAVE 1 回收 CG",
+            "choice_cn": "不去看月下之国现在的样子",
+            "note_cn": "CG 回收"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zebenera",
+    "title_jp": "ゼベネラ",
+    "title_cn": "泽贝涅拉",
+    "category": "三世因果典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-zebenera",
+    "notes": [
+      "エンディングに攻略制限はありません。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "十七年前・夏◆郡王の子",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前・夏｜郡王之子",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十五年前・夏◆私の槍",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十五年前・夏｜我的枪",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十五年前・秋◆私の槍",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十五年前・秋｜我的枪",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十五年前・冬◆王たる者の心得",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十五年前・冬｜为王者的心得",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "七年前◆戦士の証",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "七年前｜战士之证",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "四年前◆灰色のおてんば娘",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "四年前｜灰色的淘气姑娘",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "三年前◆王の狼",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "三年前｜王之狼",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "二年前◆雪をも溶かす白熱のシャッゴイ戦",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "二年前｜连雪都融化的激烈シャッゴイ战",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十七年前・春◆泣き虫ヨウ",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十七年前・春｜爱哭鬼ヨウ",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第０・五節◆婚礼衣装に想いを込めて",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第0・五节｜把心意寄托于婚礼衣装",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第四節◆郡王の娘",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第四节｜郡王之女",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第四節◆約束の娘",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "++第四节｜约定之女",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆星空の下で過ごす夜",
+            "choice_jp": "もちろん、と言う",
+            "note_jp": "",
+            "section_cn": "+第六节｜星空下度过的夜晚",
+            "choice_cn": "说“当然”",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第六節◆星空の下で過ごす夜",
+            "choice_jp": "父のことを思い浮かべる",
+            "note_jp": "",
+            "section_cn": "+第六节｜星空下度过的夜晚",
+            "choice_cn": "想起父亲",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第六節◆黒色の意気消沈",
+            "choice_jp": "狩りがうまくなる？",
+            "note_jp": "",
+            "section_cn": "++第六节｜黑色的意志消沉",
+            "choice_cn": "会更擅长狩猎吗？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第六節◆黒色の意気消沈",
+            "choice_jp": "ヘイを撫でる",
+            "note_jp": "",
+            "section_cn": "++第六节｜黑色的意志消沉",
+            "choice_cn": "抚摸ヘイ",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第七節◆おてんば娘の恋",
+            "choice_jp": "女子同士の方が気楽なんです",
+            "note_jp": "",
+            "section_cn": "+第七节｜淘气姑娘的恋情",
+            "choice_cn": "女孩子之间比较轻松",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第七節◆おてんば娘の恋",
+            "choice_jp": "お産の準備をする",
+            "note_jp": "",
+            "section_cn": "+第七节｜淘气姑娘的恋情",
+            "choice_cn": "准备生产",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第七節◆口づけに齧りついて",
+            "choice_jp": "は、い……",
+            "note_jp": "",
+            "section_cn": "++第七节｜咬住亲吻",
+            "choice_cn": "是、好……",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第七節◆触れ合わずとも、深愛",
+            "choice_jp": "白狼族の伝承を聞きたい",
+            "note_jp": "",
+            "section_cn": "+++第七节｜即使不触碰，也深深爱着",
+            "choice_cn": "想听白狼族的传承",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "明前終節-後日談-◆永遠に、つがいのまま",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜永远成对相伴",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第七・五節◆認める渇望",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "第七・五节｜承认渴望",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆黒き狼は、愛しき君の匂いに彷徨う",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "雨前终节 后日谈｜黑狼因爱人气味而彷徨",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆花舞う白昼に君を愛す",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜花舞白昼中爱你",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karma",
+    "title_jp": "カルマ",
+    "title_cn": "卡尔玛",
+    "category": "三世因果典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-karuma",
+    "notes": [
+      "エンディングに攻略制限はありません。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "三世因果典",
+        "rows": [
+          {
+            "section_jp": "十一年前・夏◆紫色の大切な時間",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・夏｜紫色的重要时光",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第二節◆切なさ疼く再開",
+            "choice_jp": "獣に手を伸ばす",
+            "note_jp": "",
+            "section_cn": "+第二节｜心痛的重逢",
+            "choice_cn": "向野兽伸出手",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十二年前◆宝玉",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十二年前｜宝玉",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十一年前・初夏◆業の輪が廻りだす",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十一年前・初夏｜业之轮开始转动",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第五節◆カルマ、さかな、とる！",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第五节｜卡尔玛，抓鱼！",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "九年前・夏◆カルマの大冒険",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "九年前・夏｜卡尔玛的大冒险",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "雨前終節-後日談-◆ただいま、おかえり",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "雨前终节 后日谈｜我回来了，欢迎回来",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "十年前・夏◆カルマと荔枝",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "十年前・夏｜卡尔玛与荔枝",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "明前終節-後日談-◆角も爪も牙も、君を愛すためにある",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "明前终节 后日谈｜角、爪、牙都是为了爱你",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第八節◆金色の糸",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "+第八节｜金色的线",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第八節◆守るための爪",
+            "choice_jp": "黒くて細長いぷるぷるしたもの",
+            "note_jp": "",
+            "section_cn": "++第八节｜为了守护的爪",
+            "choice_cn": "黑色、细长、软颤颤的东西",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第八節◆甘くて、とろっとしてて",
+            "choice_jp": "まだ慣れない？",
+            "note_jp": "",
+            "section_cn": "+++第八节｜甜甜的、黏稠的",
+            "choice_cn": "还没习惯？",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++++第八節◆お金の価値",
+            "choice_jp": "カルマをチラッと見る",
+            "note_jp": "",
+            "section_cn": "++++第八节｜钱的价值",
+            "choice_cn": "偷瞄卡尔玛",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+第九節◆弟じゃない",
+            "choice_jp": "照れる",
+            "note_jp": "",
+            "section_cn": "+第九节｜不是弟弟",
+            "choice_cn": "害羞",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++第九節◆男だと思ってよ",
+            "choice_jp": "カルマを撫でる",
+            "note_jp": "",
+            "section_cn": "++第九节｜把我当成男人吧",
+            "choice_cn": "抚摸卡尔玛",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++第九節◆撫で合い",
+            "choice_jp": "カルマの服を掴む",
+            "note_jp": "",
+            "section_cn": "+++第九节｜互相抚摸",
+            "choice_cn": "抓住卡尔玛的衣服",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "++++第九節◆どこまでも食事に",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "++++第九节｜不管到哪里都吃饭",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "+++++第九節◆男だと思ってるよ",
+            "choice_jp": "気持ちいい",
+            "note_jp": "",
+            "section_cn": "+++++第九节｜我知道你把我当男人",
+            "choice_cn": "很舒服",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "春前終節-後日談-◆一双の森の精",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "春前终节 后日谈｜一双森林之精",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gyokusui",
+    "title_jp": "玉彗",
+    "title_cn": "玉彗",
+    "category": "金烏玉兎典",
+    "source": "https://choro-game.com/e/matsurika-fd-guide-gyokusui",
+    "notes": [
+      "攻略制限はありません。",
+      "一番最後のスチルは「喋喋喃喃典」で回収できます。"
+    ],
+    "groups": [
+      {
+        "name": "金烏玉兎典",
+        "rows": [
+          {
+            "section_jp": "序節◆玲瓏煙",
+            "choice_jp": "選択肢なし",
+            "note_jp": "",
+            "section_cn": "序节｜玲珑烟",
+            "choice_cn": "无选项",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第一節◆覆水盆に返らず",
+            "choice_jp": "感情を吐き出す",
+            "note_jp": "",
+            "section_cn": "第一节｜覆水难收",
+            "choice_cn": "吐露感情",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第二節◆金鳥の光が陰り、玉兎の膿が出る",
+            "choice_jp": "玉慧さんから離れた場所を探す",
+            "note_jp": "",
+            "section_cn": "第二节｜金乌之光转暗，玉兔之脓涌出",
+            "choice_cn": "找离玉彗先生远一点的地方",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第三節◆合縁奇縁",
+            "choice_jp": "茶を淹れる",
+            "note_jp": "",
+            "section_cn": "第三节｜合缘奇缘",
+            "choice_cn": "泡茶",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第四節◆雨垂れ石を穿つ",
+            "choice_jp": "背中を揉む",
+            "note_jp": "",
+            "section_cn": "第四节｜水滴石穿",
+            "choice_cn": "揉背",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第五節◆有罪か無罪か、無実か",
+            "choice_jp": "SAVE1 → 玉慧さんを守りたい",
+            "note_jp": "",
+            "section_cn": "第五节｜有罪或无罪，是否无辜",
+            "choice_cn": "SAVE 1 后选“想保护玉彗先生”",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第六節◆泡の跡に環り演じる",
+            "choice_jp": "貴方が生きていて良かった",
+            "note_jp": "",
+            "section_cn": "第六节｜在泡沫的痕迹中轮回演绎",
+            "choice_cn": "你活着真好",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第七節◆光芒一閃",
+            "choice_jp": "塩でお願いします！",
+            "note_jp": "",
+            "section_cn": "第七节｜光芒一闪",
+            "choice_cn": "请用盐！",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第八節◆月に棲むは、兎か否か",
+            "choice_jp": "おかしい",
+            "note_jp": "",
+            "section_cn": "第八节｜月中所栖，是兔或非兔",
+            "choice_cn": "很奇怪",
+            "note_cn": ""
+          },
+          {
+            "section_jp": "第九節◆罪の深淵を叩く",
+            "choice_jp": "SAVE2 → 正直に話す",
+            "note_jp": "〖春前終節〗",
+            "section_cn": "第九节｜叩响罪之深渊",
+            "choice_cn": "SAVE 2 后选“如实说”",
+            "note_cn": "到达春前终节"
+          },
+          {
+            "section_jp": "SAVE2 より",
+            "choice_jp": "口ごもる",
+            "note_jp": "〖明前終節〗",
+            "section_cn": "SAVE 2 分岔",
+            "choice_cn": "吞吞吐吐",
+            "note_cn": "到达明前终节"
+          },
+          {
+            "section_jp": "SAVE1 より",
+            "choice_jp": "玉慧さんに守られたい",
+            "note_jp": "雨前ルート",
+            "section_cn": "SAVE 1 分岔",
+            "choice_cn": "想被玉彗先生保护",
+            "note_cn": "进入雨前路线"
+          },
+          {
+            "section_jp": "第六節◆泡の跡に環り演じる",
+            "choice_jp": "貴方が居てくれて良かった",
+            "note_jp": "〖雨前終節〗",
+            "section_cn": "第六节｜在泡沫的痕迹中轮回演绎",
+            "choice_cn": "有你在真好",
+            "note_cn": "到达雨前终节"
+          }
+        ]
+      }
+    ]
+  }
+]
