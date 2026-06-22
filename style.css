@@ -124,3 +124,38 @@ tr:has(input:checked){opacity:.52}tr:has(input:checked) .choice-jp{text-decorati
     grid-template-columns: 1fr;
   }
 }
+
+.usage-card {
+  margin: 24px 0;
+  padding: 24px 28px;
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(232, 150, 178, 0.35);
+  box-shadow: 0 14px 36px rgba(196, 91, 128, 0.14);
+}
+
+.usage-card h2 {
+  margin: 0 0 14px;
+  color: #87334f;
+}
+
+.sakura-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  line-height: 1.9;
+}
+
+.sakura-list li {
+  position: relative;
+  margin: 8px 0;
+  padding-left: 1.6em;
+}
+
+.sakura-list li::before {
+  content: "✿";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #d77fa1;
+}
