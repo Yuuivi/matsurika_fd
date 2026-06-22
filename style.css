@@ -33,3 +33,93 @@ main{width:min(1180px,92vw);margin:0 auto;padding:42px 0 80px}.notice,.filter,.s
 tr:has(input:checked){opacity:.52}tr:has(input:checked) .choice-jp{text-decoration:line-through;text-decoration-thickness:2px;text-decoration-color:var(--ok)}
 @media (max-width:800px){.notice{grid-template-columns:1fr}.route-head{flex-direction:column}.source{white-space:normal}.meta-grid{grid-template-columns:1fr}.topbar{gap:10px}.topbar a:not(.brand){font-size:12px}.hero-inner{padding-top:76px}.route{padding:20px}.route h2{font-size:28px}table{min-width:760px}}
 @media print{body{background:white;color:black}.topbar,.hero-actions,.filter input,.done input,.petals{display:none}.hero,.route,.notice,.sources{border-color:#bbb;background:white;color:black;box-shadow:none}.lead,.notice p,.filter p,.sources p,.route-notes,.note,.cn{color:#333}.source{background:#eee;color:black}.route{break-inside:avoid}a{text-decoration:none;color:black}}
+
+.mode-section {
+  margin: 48px auto;
+  padding: 32px;
+  max-width: 1100px;
+  border: 1px solid rgba(232, 150, 178, 0.38);
+  border-radius: 28px;
+  background:
+    linear-gradient(180deg, rgba(255, 250, 252, 0.94), rgba(255, 238, 245, 0.9));
+  box-shadow: 0 18px 48px rgba(196, 91, 128, 0.16);
+}
+
+.section-kicker {
+  margin-bottom: 8px;
+  color: #b95f82;
+  font-size: 0.82rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.mode-section h2 {
+  margin: 0 0 10px;
+  color: #7d304b;
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+}
+
+.section-note,
+.source-note {
+  color: #8a5a6a;
+  line-height: 1.8;
+}
+
+.mode-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.mode-card {
+  padding: 22px;
+  border: 1px solid rgba(231, 165, 188, 0.5);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at top right, rgba(255, 211, 226, 0.72), transparent 42%),
+    rgba(255, 255, 255, 0.72);
+}
+
+.mode-card h3 {
+  margin: 0 0 10px;
+  color: #87334f;
+  font-size: 1.28rem;
+}
+
+.mode-card h3 span {
+  display: inline-block;
+  margin-left: 0.35em;
+  color: #c47b99;
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+
+.jp-label {
+  margin: 0 0 12px;
+  color: #b95f82;
+  font-size: 0.93rem;
+  font-weight: 600;
+}
+
+.mode-card p {
+  line-height: 1.85;
+}
+
+.source-note a {
+  color: #a93864;
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(169, 56, 100, 0.45);
+}
+
+@media (max-width: 760px) {
+  .mode-section {
+    padding: 22px;
+    border-radius: 22px;
+  }
+
+  .mode-grid {
+    grid-template-columns: 1fr;
+  }
+}
