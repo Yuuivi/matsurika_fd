@@ -35,9 +35,10 @@ tr:has(input:checked){opacity:.52}tr:has(input:checked) .choice-jp{text-decorati
 @media print{body{background:white;color:black}.topbar,.hero-actions,.filter input,.done input,.petals{display:none}.hero,.route,.notice,.sources{border-color:#bbb;background:white;color:black;box-shadow:none}.lead,.notice p,.filter p,.sources p,.route-notes,.note,.cn{color:#333}.source{background:#eee;color:black}.route{break-inside:avoid}a{text-decoration:none;color:black}}
 
 .mode-section {
-  margin: 48px auto;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 28px 0;
   padding: 32px;
-  max-width: 1100px;
   border: 1px solid rgba(232, 150, 178, 0.38);
   border-radius: 28px;
   background:
