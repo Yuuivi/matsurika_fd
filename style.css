@@ -159,3 +159,18 @@ tr:has(input:checked){opacity:.52}tr:has(input:checked) .choice-jp{text-decorati
   top: 0;
   color: #d77fa1;
 }
+
+button.button {
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.toolbar-btn {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  letter-spacing: inherit;
+}
